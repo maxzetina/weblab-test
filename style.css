@@ -1,6 +1,12 @@
-div {
+.a {
     color: red;
     font-family: Arial;
     font-size: 24pt;
   }
+  
+.b {
+  color: blue;
+  font-family: Arial;
+  font-size: 24pt;
+}
   
